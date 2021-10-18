@@ -1,6 +1,6 @@
 {
   "name": "app",
-  "home": "https://hossein-keshtkar.github.com/WhoPays/",
+  "homepage": "https://hossein-keshtkar.github.com/WhoPays/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
